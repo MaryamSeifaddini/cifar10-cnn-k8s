@@ -1,0 +1,9 @@
+# Dataset and training outputs (downloaded/created at run time, too large for git)
+data/
+outputs/
+*.pt
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
